@@ -1,4 +1,4 @@
-# Diabetes Predictor :notebook
+# Diabetes Predictor :
 > Predict Diabetes using Machine Learning and UI built by PYWEBIO.
 
 
