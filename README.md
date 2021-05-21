@@ -16,7 +16,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # How to run the project? :thinking:
 **1).** Run all command manually
-  - Clone github repository in your local system  `git clone https://github.com/yogeshnile/spam-sms-detector.git`
+  - Clone github repository in your local system  `gh repo clone rohitpathak18/Diabetes-Prediction`
   - Move in spam-sms-detector repository  `cd diabetes=predictor`
   - Create new virtual python environment  `python3 -m venv venv`
   - Activate virtual python environment  `source venv/bin/activate`
