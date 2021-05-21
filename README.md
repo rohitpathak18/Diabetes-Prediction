@@ -1,4 +1,4 @@
-# Diabetes Predictor :notebook: &nbsp;[![]
+# Diabetes Predictor :notebook
 > Predict Diabetes using Machine Learning and UI built by PYWEBIO.
 
 
